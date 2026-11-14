@@ -1,0 +1,17 @@
+{
+  "release": "v1.0.0",
+  "models": {
+    "sr_4x": {
+      "filename": "4x_nadeshiko_dat2_v1.safetensors",
+      "scale": 4,
+      "sha256": "5f7361323c50b869683cfe7799209600a509d81374bd59e31e5a4a68ab2ae702",
+      "url": "https://github.com/EmilyTsum/nadeshiko-sr/releases/download/v1.0.0/4x_nadeshiko_dat2_v1.safetensors"
+    },
+    "sr_2x": {
+      "filename": "2x_nadeshiko_fdat_v1.safetensors",
+      "scale": 2,
+      "sha256": "7bb87e04b1fe638deca8a5b36439490ce7764c256398c83342fec60aac0a2305",
+      "url": "https://github.com/EmilyTsum/nadeshiko-sr/releases/download/v1.0.0/2x_nadeshiko_fdat_v1.safetensors"
+    }
+  }
+}
