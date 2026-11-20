@@ -1,0 +1,11 @@
+Model attribution
+
+The 4x model in this repository (4x_nadeshiko_dat2_v1) is a fine-tune of
+4x_IllustrationJaNai_V3detail_DAT2 by the-database
+(https://openmodeldb.info/models/4x-IllustrationJaNai-V3detail-DAT2),
+licensed under CC BY-NC-SA 4.0
+(https://creativecommons.org/licenses/by-nc-sa/4.0/).
+Changes: fine-tuned on MLTD texture pairs degraded with ASTC compression.
+
+The 2x model is based on IllustrationJaNai FDAT by the-database,
+under the same license.
